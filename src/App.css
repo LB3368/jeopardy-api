@@ -1,6 +1,16 @@
-.App {
-  text-align: center;
+.App{
+  background-color: whitesmoke;
 }
+
+
+
+
+.App-header {
+  text-align: center;
+  min-height: 900px;
+
+}
+
 
 .App-logo {
   height: 40vmin;
